@@ -1,4 +1,4 @@
-The project is a database management system for gigs. It uses PostreSQL and JDBC for the database and menu. 
+The project is a database management system for gigs. It uses PostgreSQL and JDBC for the database and menu. 
 
 UNAUTHORISED REUSE OR COPYING OF THIS PROJECT IS NOT PERMITTED.
 
